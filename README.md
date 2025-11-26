@@ -18,10 +18,6 @@
 - 👨‍💻 **All of my projects are available at (https://github.com/ayushraistudio)**
 - 👨‍💻 **Ask me about Engineering**
 - ⚡ **Best Quote : "The best way to predict the future is to create it."**
-<br>
-<br>
-
-https://github-profile-trophy.vercel.app/?username=ayushraistudio-ma&theme=discord
 
 <br>
 
