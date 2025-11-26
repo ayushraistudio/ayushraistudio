@@ -19,7 +19,11 @@
 - 👨‍💻 **Ask me about Engineering**
 - ⚡ **Best Quote : "The best way to predict the future is to create it."**
 <br>
+<br>
 
+https://github-profile-trophy.vercel.app/?username=ayushraistudio-ma&theme=discord
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
