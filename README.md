@@ -37,29 +37,21 @@
   </a>
 </p>
 
-<h3 align="center">Support:</h3>
-
-<p align="center">
+<h3 align="left">Support:</h3>
+<p>
   <a href="https://www.buymeacoffee.com/ayushraistudio">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Me a Coffee"/>
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
 </p>
 
-<br />
+<br><br><br>
 
+<h3 align="left">🏆 Live GitHub Stats:</h3>
 <div align="center">
   <a href="https://github.com/ayushraistudio/ayush-trophy">
     <img src="https://raw.githubusercontent.com/ayushraistudio/ayush-trophy/main/trophy.svg" alt="Ayush's GitHub Trophy" width="800" />
   </a>
 </div>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraistudio&" alt="ayushraistudio" />
-</p>
-
-<br />
 
 <div align="center">
   <h2>🐍 Snake eating my github's contribution 🐍</h2>
