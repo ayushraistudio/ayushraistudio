@@ -46,8 +46,12 @@
 </p>
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushraistudio&show_icons=true&locale=en&layout=compact" alt="ayushraistudio" /></p>
 <div align="center">
+  <a href="https://github.com/ayushraistudio/ayush-trophy">
+    <img src="https://raw.githubusercontent.com/ayushraistudio/ayush-trophy/main/trophy.svg" alt="Ayush's GitHub Trophy" width="800" />
+  </a>
+</div>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraistudio&" alt="ayushraistudio" /></p>
