@@ -12,7 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraistudio&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrai9142" /> </p>
 
 
-
 <br>
 
 - 🌱 **I’m currently learning React and node.js**
