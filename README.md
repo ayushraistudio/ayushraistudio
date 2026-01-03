@@ -15,7 +15,7 @@
 <br>
 
 - 🌱 **I’m currently learning React and node.js**
-- 👨‍💻 **All of my projects are available at (https://github.com/ayushraistudio)**
+- 👨‍💻 **All of my projects are available at (ayushraistudio.com)**
 - 👨‍💻 **Ask me about Engineering**
 - ⚡ **Best Quote : "The best way to predict the future is to create it."**
 
