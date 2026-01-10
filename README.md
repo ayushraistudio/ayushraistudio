@@ -37,6 +37,15 @@
   </a>
 </p>
 
+<br>
+<h3 align="left">🔓 Open Source Contributions:</h3>
+
+- **[ImadSaddik/ImadSaddikWebsite](https://github.com/ImadSaddik/ImadSaddikWebsite)**
+  - Documentation improvement (Meilisearch GUI section)
+  - [Pull Request #106 (merged)](https://github.com/ImadSaddik/ImadSaddikWebsite/pull/106)
+
+<br>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/ayushraistudio">
