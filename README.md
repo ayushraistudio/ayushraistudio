@@ -57,7 +57,7 @@
 
 <h3 align="left">🏆 Live GitHub Stats:</h3>
 <div align="center">
-  [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
+  [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 </div>
 
 <div align="center">
