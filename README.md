@@ -56,9 +56,11 @@
 <br><br><br>
 
 <h3 align="left">🏆 Live GitHub Stats:</h3>
-<div align="center">
-  [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
-</div>
+<p align="center">
+  <a href="https://github.com/ayushraistudio/github-contribution-showcase">
+    <img src="https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon" alt="GitHub Trophy" />
+  </a>
+</p>
 
 <div align="center">
   <h2>🐍 Snake eating my github's contribution 🐍</h2>
@@ -84,6 +86,5 @@
   </picture>
 </a>
 
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=tshivam2007&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 
-
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
