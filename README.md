@@ -57,8 +57,7 @@
 
 <h3 align="left">🏆 Live GitHub Stats:</h3>
 <div align="center">
-  <a href="https://github.com/ayushraistudio/ayush-trophy">
-    <img src="https://raw.githubusercontent.com/ayushraistudio/ayush-trophy/main/trophy.svg" alt="Ayush's GitHub Trophy" width="800" />
+  <a href="https://github.com/ayushraistudio/ayush-trophy"><img src="https://raw.githubusercontent.com/ayushraistudio/ayush-trophy/main/trophy_neon.svg" width="700" /></a>
   </a>
 </div>
 
