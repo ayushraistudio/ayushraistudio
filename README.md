@@ -86,5 +86,4 @@
   </picture>
 </a>
 
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=tshivam2007&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 
