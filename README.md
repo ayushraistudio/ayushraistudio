@@ -87,4 +87,3 @@
 </a>
 
 
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=ayushraistudio&theme=sakura)](https://github.com/ayushraistudio/github-contribution-showcase)
