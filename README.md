@@ -36,11 +36,7 @@
     <img src="https://skillicons.dev/icons?i=git,c,css,html,js,nodejs,react,tailwind,python,vscode,github,firebase," />
   </a>
 </p>
-
-
-
 <br><br><br>
-
 <h3 align="left">🏆 Live GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/ayushraistudio/github-contribution-showcase">
