@@ -84,3 +84,7 @@
 </a>
 
 
+
+
+
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=cyberpunk)](https://github.com/ayushraistudio/github-contribution-showcase)
