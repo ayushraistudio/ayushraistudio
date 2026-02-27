@@ -38,7 +38,23 @@
 </p>
 
 
+## 🚀 My NPM Package
+
+### react-behavior-guard  
+A lightweight React utility to control unwanted user behavior and enhance UI security in React applications.
+
 [![npm version](https://img.shields.io/npm/v/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
+[![npm downloads](https://img.shields.io/npm/dm/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
+[![npm license](https://img.shields.io/npm/l/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
+
+### 📦 Installation
+
+```bash
+npm install react-behavior-guard
+```
+
+### 🔗 NPM Link
+https://www.npmjs.com/package/react-behavior-guard
 
 <br><br>
 <h3 align="left">🏆 Live GitHub Stats:</h3>
