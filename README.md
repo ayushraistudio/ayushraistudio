@@ -37,6 +37,9 @@
   </a>
 </p>
 
+
+[![npm version](https://img.shields.io/npm/v/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
+
 <br><br>
 <h3 align="left">🏆 Live GitHub Stats:</h3>
 <p align="center">
