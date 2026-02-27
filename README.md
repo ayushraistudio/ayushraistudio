@@ -45,16 +45,13 @@ A lightweight React utility to control unwanted user behavior and enhance UI sec
 
 [![npm version](https://img.shields.io/npm/v/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
 [![npm downloads](https://img.shields.io/npm/dm/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
-[![npm license](https://img.shields.io/npm/l/react-behavior-guard.svg)](https://www.npmjs.com/package/react-behavior-guard)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/ayushraistudio/react-behavior-guard)
 
 ### 📦 Installation
 
 ```bash
 npm install react-behavior-guard
 ```
-
-### 🔗 NPM Link
-https://www.npmjs.com/package/react-behavior-guard
 
 <br><br>
 <h3 align="left">🏆 Live GitHub Stats:</h3>
