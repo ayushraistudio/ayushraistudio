@@ -9,16 +9,16 @@
 
 <img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraistudio&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrai9142" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraistudio&label=Profile%20views&color=0e75b6&style=flat" alt="ayushr" /> </p>
 
 
 <br>
 
-- 🌱 **I’m currently learning React and node.js**
-- 👨‍💻 **All of my projects are available at (https://ayushraistudio.com)**
+- 🌱 **I’m currently learning React and Node.js**
+- 👨‍💻 **All of my projects are available at [Ayush Rai Studio](https://ayushraistudio.com)**
+- 🖥️ **My Mac Portfolio is available at [Ayush Mac Portfolio](https://ayushos.vercel.app/)**
 - 👨‍💻 **Ask me about Engineering**
-- ⚡ **Best Quote : "The best way to predict the future is to create it."**
-
+- ⚡ **Best Quote: "The best way to predict the future is to create it."**
 <br>
 
 <h3 align="left">Connect with me:</h3>
