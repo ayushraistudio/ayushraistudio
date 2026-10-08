@@ -9,8 +9,10 @@
 
 <img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushraistudio&label=Profile%20views&color=0e75b6&style=flat" alt="ayushr" /> </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayushraistudio&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <br>
 
@@ -77,11 +79,8 @@ npm install react-behavior-guard
 <h2 align="center">📈📉 contribution graph 📉📈</h2>
 
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushraistudio&theme=react-dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayushrai9142&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushraistudio&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="My Contribution Graph" />
-  </picture>
-</a>
+<div align="center">
 
+<img src="https://github-activity-graph.luckylinux.dev/graph?username=ayushraistudio&theme=github-compact&hide_border=true"/>
+
+</div>
