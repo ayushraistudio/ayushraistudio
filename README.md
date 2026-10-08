@@ -5,7 +5,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Dear!+👋;+I'm+Ayush+Rai;&center=true&font=Righteous&size=35&color=FF813F">
 
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer | Web Development | Al & Cloud Enthusiast</h3>
 
 <img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 **I’m currently learning React and Node.js**
+- 🌱 **Full-Stack Developer | AI/ML | Cloud & Modern Web Technologies**
 - 👨‍💻 **All of my projects are available at [Ayush Rai Studio](https://ayushraistudio.com)**
 - 🖥️ **My Mac Portfolio is available at [Ayush Mac Portfolio](https://ayushos.vercel.app/)**
 - 👨‍💻 **Ask me about Engineering**
